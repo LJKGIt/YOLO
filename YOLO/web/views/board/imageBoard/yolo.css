@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+h1{
+	text-align: center;
+	}
+	
+#All-main{
+	width: 100%;
+
+}
+
+.second-main{
+	margin-right: 40%;
+	margin-top: 10%;
+	width: 400px;
+	float: right;
+}
+
+ .second-main .show-list-middle{
+	margin-bottom: 60px;
+	margin-top: 60px;
+}
+
+.show-list-item1{
+	float: left;
+
+}
+
+.show-list-item2{
+	float: left;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+
+.first-main .list{
+	width: 220px;
+	float: left;
+}
+
+a {
+	text-decoration: none;
+}
+
